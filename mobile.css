@@ -1,0 +1,103 @@
+/* sub-header */
+
+#sub-header {
+    height: 50vh;
+}
+
+
+/* Img-history */
+
+#img-history {}
+
+#img-history .img {
+    background: none;
+    width: 0;
+}
+
+#img-history .history {
+    padding: 10px, 20px;
+    width: 100%;
+}
+
+#img-history .history p {
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+
+
+/* Section: Box */
+
+#box {
+    display: block;
+}
+
+
+/* special codes */
+
+.main-text {
+    font-size: 30px;
+}
+
+.l-heading {
+    font-size: 22px;
+}
+
+
+/* About */
+
+#about-fph {
+    display: block;
+    padding: 20px;
+}
+
+#about-fph .text-fph {
+    line-height: 2;
+}
+
+
+/* section: testimony */
+
+#testimony {
+    padding: 50px 20px;
+}
+
+#testimony .testimony {
+    display: block;
+}
+
+#testimony h2 {
+    font-size: 20px;
+}
+
+#testimony .testimony .testimony-img1 {
+    margin-left: 25%;
+}
+
+#testimony .testimony .testimony-img2 {
+    margin-left: 25%;
+}
+
+#testimony .testimony #ptext {
+    padding-left: 5px;
+    padding-top: 4px;
+    line-height: 2;
+}
+
+
+/* contact */
+
+#contact {
+    padding: 10px 30px;
+}
+
+#contact-info {
+    display: block;
+}
+
+#contact-info .contact-info {
+    padding-top: 10px;
+}
+
+#contact-info .contact-info i {
+    padding-top: 10px;
+}
